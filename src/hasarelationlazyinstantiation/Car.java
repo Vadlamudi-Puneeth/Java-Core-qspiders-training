@@ -1,0 +1,21 @@
+package hasarelationlazyinstantiation;
+
+public class Car {
+	private int price;
+
+	public int getPrice() {
+		return price;
+	}
+
+	public void setPrice(int price) {
+		this.price = price;
+	}
+	
+	Car(int price){
+		this.price = price;  
+	}
+	
+	//achieve lazy instantiation
+	
+	
+}
