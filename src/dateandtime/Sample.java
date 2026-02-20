@@ -16,5 +16,8 @@ public class Sample {
 		long daysBetween = ChronoUnit.DAYS.between(date1, date2);
 		System.out.println(daysBetween);
 		
+		System.out.println(date1.getDayOfWeek());
+		
+		
 	}
 }

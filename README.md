@@ -58,6 +58,9 @@ Java Core QSpiders Training
 This repository includes hands-on programs on the following Java topics.  
 Each topic contains focused examples and practice programs to strengthen core concepts.
 
+*** For ClassWork
+📁 [Click to Navigate to assignment folder](https://github.com/Vadlamudi-Puneeth/Java-Core-qspiders-training/tree/main/NOTES)
+
 *** For All the below programs questions you can see in the 	ASSIGNMENTS FOLDER in my Github account ***
 
 📁 [Click to Navigate to assignment folder](https://github.com/Vadlamudi-Puneeth/Java-Core-qspiders-training/tree/main/ASSIGNMENTS)

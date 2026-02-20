@@ -46,8 +46,8 @@ public class TrackUtil {
 		
 	}
 	
-	public static Function<Track, Double> genreAdjustMent() {
-		
-	}
+//	public static Function<Track, Double> genreAdjustMent() {
+//		
+//	}
 
 }

@@ -20,9 +20,9 @@ public class Example {
 //		\\s space
 //		\\S not space
 		
+//		System.out.println("*".matches("\\W"));
 		
-		
-		System.out.println("7".matches("\\d"));
+//		System.out.println("7".matches("\\d"));
 //		System.out.println("h".matches("\\w"));
 //		System.out.println("hai".matches("\\w+"));
 //		System.out.println("_".matches("\\w"));
@@ -40,8 +40,8 @@ public class Example {
 		
 //		System.out.println("kh".matches("h+"));
 		
-//		System.out.println("abAd".matches("[a-zA-Z]"));
-//		System.out.println("abAd".matches("[a-zA-Z]+"));
+		System.out.println("aB".matches("[a-zA-Z]"));
+		System.out.println("abAd".matches("[a-zA-Z]+"));
 		
 //		[abc]
 //		[^abc]
